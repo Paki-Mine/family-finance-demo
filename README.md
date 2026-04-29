@@ -7,6 +7,14 @@ Web app per la gestione delle finanze familiari condivise. Dashboard, transazion
 
 ---
 
+## Screenshots
+
+| Selezione membro | Dashboard mensile | Gestione famiglia |
+|:---:|:---:|:---:|
+| ![Selezione membro](docs/01-login.png) | ![Dashboard mensile](docs/02-dashboard.png) | ![Gestione famiglia](docs/03-famiglia.png) |
+
+---
+
 ## Stack
 
 - **Frontend:** React 18 (single-file, no build step), JSX trasformato in-browser via Babel standalone
