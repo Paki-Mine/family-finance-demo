@@ -3,7 +3,7 @@
 Web app per la gestione delle finanze familiari condivise. Dashboard, transazioni, statistiche per categoria, budget mensili, transazioni ricorrenti, gestione multi-membro.
 
 > **Demo pubblica** con dati fittizi — clicca, esplora, modifica liberamente.
-> 🔗 **Live demo:** _da inserire dopo il deploy Vercel_
+> 🔗 **Live demo:** https://family-finance-demo.vercel.app/
 
 ---
 
